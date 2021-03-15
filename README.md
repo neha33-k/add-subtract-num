@@ -1,5 +1,5 @@
 # add-subtract-num
-This project is about to add and subtract the numbers using their respectively buttons in React-Native and i have used simple animation.
+This project is about to add and subtract the numbers using their respectively buttons in React-Native and i have used simple animation.Here,I have uploaded screenshorts and video of the project.
 
 To run this project use following command in command Prompt:
 
